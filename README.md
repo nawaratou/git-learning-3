@@ -38,4 +38,4 @@ git push
 Résultat attendu :
 
 notes.txt contient les deux lignes issues des branches main et conflict-test
-Historique reflète le conflit et sa résolut
+Historique reflète le conflit et sa résolution.
